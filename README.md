@@ -13,7 +13,19 @@ Unsupervised semantic segmentation (USS) aims to achieve high-quality segmentati
 
 
 ## 性能分析
-![image](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%871.png)
+---
+
+|    Method    |  Pior  | mIoU(%) | B-mIoU | Img-Acc |  Fβ  |
+|:-------------|:------:|:-------:|:------:|:-------:|:----:|
+|  DeepCluster |   -    |   4.0   |  1.4   |   14.9  | 31.6 |
+|  DeepCluster |  IN1k  |  14.6   |  3.1   |   44.8  | 33.2 |
+|     PiCIE    |   -    |   5.0   |  1.8   |   15.8  | 14.6 |
+|     PiCIE    |  IN1k  |  17.8   |  3.7   |   45.0  | 32.1 |
+|    MaskCon   |   Sal  |  24.6   |  15.6  |   47.9  | 65.7 |
+|     PASS     |    -   |  29.2   |  7.6   |   66.2  | 49.0 |
+| UO-SAM(PASS) |    -   |  35.8   |  25.7  |   64.6  | 56.7 |
+
+---
 
 ## 致谢
 
