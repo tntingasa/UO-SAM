@@ -1,7 +1,7 @@
 
 # UNIVERSAL ORGANIZER OF SEGMENT ANYTHING MODEL FOR UNSUPERVISED SEMANTIC SEGMENTATION
 
-![img](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%872.png)
+![img](https://github.com/Tntingasaa/UO-SAM/blob/main/pic/framework.png)
 
 
 ## abstract
