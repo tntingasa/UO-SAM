@@ -39,4 +39,3 @@ segmentation* 实现，部分代码参考了
 
 ## 注意事项
 
-![image-20220419164035639](https://s3.bmp.ovh/imgs/2022/04/19/6a3aa627eab5f159.png)
